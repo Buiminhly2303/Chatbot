@@ -2,6 +2,10 @@
 Build a “Chatbot” for a interview
 
 ## Clone source
+```bash
+git clone https://github.com/Buiminhly2303/Chatbot/tree/dev
+cd Chatbot
+```
 
 ## Installation
 
