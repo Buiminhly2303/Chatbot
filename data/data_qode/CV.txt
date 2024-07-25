@@ -1,0 +1,33 @@
+Virtual Assistant: A virtual chatbot assistant to help Alzheimer’s disease which can speak Korean and English.
+• Preprocess dataset and training Talking Head Model on Google Cloud Platform.
+Video Production: A Application to generate video Product Marketing .
+• Researched and developed a comprehensive system integrating generate background, outpainting, generate
+video using Stable Diﬀusion model on Google Cloud Platform
+Greystone Data System Vietnam
+AI Engineer
+Defect detection: A Industrial machine to detect all of defection phone.
+December 2022 – December 2023
+• Built, ﬁne-tuned datasets, models and integrated them into software to solve defect detection problems.
+• Extracted text from phone screens using OCR and developed an ensemble method to classify phone screens.
+• Implemented deployment strategies utilizing CUDA, ONNX, OPENVINO to optimize the model for en-
+hanced performance, speciﬁcally leveraging GPU, RAM and CPU , which has resulted in an increased pro-
+cessing speed of 4 times.
+Inﬂuencer marketing: A crawling modules in social media to ﬁnd inﬂuencers
+• Implemented and ﬁne tune model detection of PaddleOCR to improve detect small digits for extract infor-
+mation from image screenshot in Bio of inﬂuencers
+• Implemented and quantize model Facebookresearch/Omnivore to feature store Video, Image similarity
+TechRes
+AI Engineering
+Social listening: A Social listening to improve services for restaurant
+March 2022 – December 2022
+• Crawling, design database for 60000 restaurant in Vietnam for F&B Social Listening
+• Build Data Warehouse, Data Mart to analyze restaurant and report
+Voice Bot: A Natural voice bot to read report
+• Crawl and preprocess 30 hours audio data for training model Text2Speech
+• Implemented, training model Text2Speech for Vietnamese, multi language(Vietnamese and English)
+Skills
+AI Skill: Computer Vision, NLP, Machine Learning, Voice, Stable Diﬀusion, LLM
+Skill: Atlassian (Bitbucket, Jira, Conﬂuence), Github, GitLab, DVC, Jenkins, GCP, Big Query, Airﬂow, Kafka,
+Pyspark, MongoDB, MySQL, PostgreSQL, Onnx, OpenVino, Triton, Tensor Serving
+Library Python: Flask, FastAPI, Tensorﬂow, Pytorch,huggingface, Scikit-learn, Numpy, Pandas, Request, Sele-
+nium, Matplotlib, Streamlit, Spacy, Gradio, Streamlit
